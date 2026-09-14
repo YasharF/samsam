@@ -64,7 +64,7 @@
     "@studio/changes": "^3.0.0",
     "@typescript/native-preview": "7.0.0-dev.20260707.2",
     "benchmark": "^2.1.4",
-    "c8": "^11.0.0",
+    "c8": "^12.0.0",
     "esbuild": "^0.28.2",
     "get-stdin": "^10.0.0",
     "husky": "^9.1.7",
