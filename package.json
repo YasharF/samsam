@@ -54,9 +54,9 @@
     "type-detect": "^4.1.0"
   },
   "devDependencies": {
-    "@mochify/cli": "^1.0.0",
-    "@mochify/driver-puppeteer": "^1.0.1",
-    "@mochify/driver-webdriver": "^1.0.0",
+    "@mochify/cli": "^2.0.0",
+    "@mochify/driver-puppeteer": "^2.0.0",
+    "@mochify/driver-webdriver": "^2.0.0",
     "@sinonjs/eslint-config": "^7.0.2",
     "@sinonjs/eslint-plugin-no-prototype-methods": "^0.1.1",
     "eslint": "^10.10.0",
