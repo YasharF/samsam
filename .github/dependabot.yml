@@ -9,6 +9,11 @@ updates:
       time: "00:00" # UTC
     open-pull-requests-limit: 3
     versioning-strategy: increase
+    groups:
+      # @mochify packages peer dependency each other, so upgrade them together.
+      mochify:
+        patterns:
+          - "@mochify/*"
     commit-message:
       prefix: "chore"
       include: "scope"
